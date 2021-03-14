@@ -1,2 +1,2 @@
 # C_ Curso
- Exercícios do curso de C++
+ Exercícios básicos do curso de C++
